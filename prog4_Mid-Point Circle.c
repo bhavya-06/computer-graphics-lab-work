@@ -39,7 +39,7 @@ int main()
 {
 	int x, y, r;
 	int gd = DETECT, gm; 
-	initgraph(&gd, &gm, ""); // initialize graph 
+	initgraph(&gd, &gm, "c:\\turboc3\\bgi"); // initialize graph 
 	printf("Enter radius of circle: ");
 	scanf("%d",&r);
 
