@@ -5,3 +5,12 @@ Graphics is defined as any sketch or a drawing or a special network that pictori
 
 How to include graphics.h in CodeBlocks?
 https://www.geeksforgeeks.org/include-graphics-h-codeblocks/?ref=lbp
+
+# List of Programs:-
+
+1.	Program to draw a line using DDA Algorithm
+2.	Program to draw a line using Bresenham’s Algorithm
+3.	Program to draw an ellipse using Mid-Point Algorithm
+4.	Program to draw a circle using Mid-Point Algorithm
+5.	Program to draw a circle using Bresenham’s Algorithm
+
