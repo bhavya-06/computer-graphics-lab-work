@@ -12,7 +12,9 @@ void Bresenham_algo(int x0, int y0, int x1, int y1)
 	
 	x = x0;  
     y = y0;  
-    p = 2*dy-dx; //decision parameter
+    
+    //take a decision parameter
+    p = (2*dy-dx); 
     
 	if(slope < 1){
 		while(x < x1){  
@@ -72,8 +74,8 @@ int main()
 	printf("Input the value of y1 : ");
 	scanf("%d",&y1);
 	
-    Bresenham_algo(x0, y0, x1, y1);  
+    Bresenham_algo(x0, y0, x1, y1);
+	  
     return 0;  
-	
- 	
+		
 }
