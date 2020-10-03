@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include<iostream>
+#include <stdio.h> 
 #include <graphics.h>
 
 void mid_point_ellipse(int rx, int ry, int xc, int yc)
